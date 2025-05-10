@@ -39,7 +39,7 @@ They offer 9 different policy types and leverage both offline and online sales m
 
 Power BI Dashboard: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTE3ZTFiNDYtOTIxNy00ZTIzLWI0ZjItOGRiMTg3NDZjNTRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=b31d7ad480e963250970)
 
-Presentation Video:[Watch on YouTube](https://youtu.be/MHlIPlcYpfc)
+Presentation Video: [Watch on YouTube](https://youtu.be/MHlIPlcYpfc)
 
 
 # 🧾 Data Model
